@@ -39,9 +39,15 @@ void printValues(int* array){
 
 // start sort
 
-void sort(int*);
-
-
+void sort(int* array){
+	int i, j;
+	for (int i = 0; i <  MAX, i++;){
+		for (int j = 0, MAX);
+		if array[j] > array[j+1]:
+			swap(array[j], array[j+1]);
+			printArray(array)
+}
+}
 
 
 
